@@ -9,7 +9,7 @@ import java.util.Properties;
 /**
  * @ProjectName: javaSe_review
  * @ClassName: SqlHelper
- * @author: hongbing
+ * @author:杨红兵
  * @version: 1.0
  * @Date: 2018-10-20 11:40
  */
